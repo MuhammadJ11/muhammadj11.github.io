@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Site Launched "
+title: "Another Blog "
 date: 2021-09-29
 ---
-
-# A day in the life....
+Created a simple website using GitHub Pages with integrated Jekyll (note md files use Markdown for syntax formatting).  **Bold** words.  As Markdown is actually is a lot easier to use for writing posts/notes than raw HTML.
