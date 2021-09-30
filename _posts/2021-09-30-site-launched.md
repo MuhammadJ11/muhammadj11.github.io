@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Site Launched "
+title: "Next Blog "
 date: 2021-09-30
 ---
  ### Presentation
